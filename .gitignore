@@ -1,0 +1,13 @@
+*.rpyb
+
+*.rpyc
+
+*.png
+
+*.jpg
+
+*.txt
+
+/.vscode
+
+game/saves
