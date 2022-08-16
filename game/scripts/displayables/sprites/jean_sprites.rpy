@@ -189,7 +189,7 @@ layeredimage Jean_titjob_breasts:
 
 layeredimage Jean_titjob_hair:
     if JeanX.wet:
-        "images/Jean_blowjob/Jean_blowjob_hair_wet.png"
+        "images/Jean_blowjob/Jean_blowjob_hair_wet_hair.png"
     else:
         "images/Jean_blowjob/Jean_blowjob_hair_[JeanX.Clothes[hair].string].png"
 

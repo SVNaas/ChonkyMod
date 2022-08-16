@@ -162,7 +162,7 @@ layeredimage Laura_head:
     if not renpy.showing("Laura_sprite sex"):
         Null()
     elif LauraX.wet:
-        "images/Laura_sex/Laura_sex_hair_wet_back.png"
+        "images/Laura_sex/Laura_sex_hair_wet_hair_back.png"
     else:
         "images/Laura_sex/Laura_sex_hair_[LauraX.Clothes[hair].string]_back.png"
 
@@ -204,11 +204,11 @@ layeredimage Laura_head:
         "images/Laura_standing/Laura_standing_hair_mid.png"
 
     if renpy.showing("Laura_sprite sex") and LauraX.wet:
-        "images/Laura_sex/Laura_sex_hair_wet.png"
+        "images/Laura_sex/Laura_sex_hair_wet_hair.png"
     elif renpy.showing("Laura_sprite sex"):
         "images/Laura_sex/Laura_sex_hair_[LauraX.Clothes[hair].string].png"
     elif LauraX.wet:
-        "images/Laura_standing/Laura_standing_hair_wet.png"
+        "images/Laura_standing/Laura_standing_hair_wet_hair.png"
     else:
         "images/Laura_standing/Laura_standing_hair_[LauraX.Clothes[hair].string].png"
 
@@ -240,7 +240,7 @@ image Laura_titjob_hair_mid:
 
 layeredimage Laura_titjob_hair:
     if LauraX.wet:
-        "images/Laura_standing/Laura_standing_hair_wet.png"
+        "images/Laura_standing/Laura_standing_hair_wet_hair.png"
     else:
         "images/Laura_standing/Laura_standing_hair_[LauraX.Clothes[hair].string].png"
 

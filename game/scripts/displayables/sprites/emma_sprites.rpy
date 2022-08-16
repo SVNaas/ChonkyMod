@@ -180,7 +180,7 @@ layeredimage Emma_sprite standing normal:
 
 layeredimage Emma_hair_back:
     if EmmaX.wet:
-        "images/Emma_standing/Emma_standing_hair_wet_back.png"
+        "images/Emma_standing/Emma_standing_hair_wet_hair_back.png"
     else:
         "images/Emma_standing/Emma_standing_hair_[EmmaX.Clothes[hair].string]_back.png"
 
@@ -210,7 +210,7 @@ layeredimage Emma_head:
         "images/Emma_standing/Emma_standing_spunk_face.png"
 
     if EmmaX.wet:
-        "images/Emma_standing/Emma_standing_hair_wet.png"
+        "images/Emma_standing/Emma_standing_hair_wet_hair.png"
     else:
         "images/Emma_standing/Emma_standing_hair_[EmmaX.Clothes[hair].string].png"
 
@@ -401,7 +401,7 @@ layeredimage Emma_sprite standing diamond:
 
 layeredimage Emma_hair_back_diamond:
     if EmmaX.wet:
-        "images/Emma_standing/Emma_standing_hair_wet_back_diamond.png"
+        "images/Emma_standing/Emma_standing_hair_wet_hair_back_diamond.png"
     else:
         "images/Emma_standing/Emma_standing_hair_[EmmaX.Clothes[hair].string]_back_diamond.png"
 
@@ -495,7 +495,7 @@ layeredimage Emma_blowjob_body:
 
 layeredimage Emma_blowjob_head:
     if EmmaX.wet:
-        "images/Emma_blowjob/Emma_blowjob_hair_wet_mid.png"
+        "images/Emma_blowjob/Emma_blowjob_hair_wet_hair_mid.png"
     else:
         "images/Emma_blowjob/Emma_blowjob_hair_[EmmaX.Clothes[hair].string]_mid.png"
 
@@ -546,7 +546,7 @@ layeredimage Emma_blowjob_head:
         "images/Emma_blowjob/Emma_blowjob_spunk_face.png"
 
     if EmmaX.wet:
-        "images/Emma_blowjob/Emma_blowjob_hair_wet.png"
+        "images/Emma_blowjob/Emma_blowjob_hair_wet_hair.png"
     else:
         "images/Emma_blowjob/Emma_blowjob_hair_[EmmaX.Clothes[hair].string].png"
 

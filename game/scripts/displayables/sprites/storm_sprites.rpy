@@ -303,9 +303,9 @@ layeredimage Storm_titjob_hair:
 
 layeredimage Storm_blowjob_hair_back:
     if StormX.wet or StormX.Clothes["hair"].string == "wet_long_hair":
-        "images/Storm_blowjob/Storm_blowjob_hair_wet_back.png"
+        "images/Storm_blowjob/Storm_blowjob_hair_wet_long_hair_back.png"
     elif StormX.Clothes["hair"].string == "long_hair":
-        "images/Storm_blowjob/Storm_blowjob_hair_back.png"
+        "images/Storm_blowjob/Storm_blowjob_hair_long_hair_back.png"
 
     anchor (0.5, 0.5)
 

@@ -414,7 +414,7 @@ layeredimage Rogue_doggy_body:
         "images/Rogue_doggy/Rogue_doggy_water_top.png"
 
     if RogueX.wet:
-        "images/Rogue_doggy/Rogue_doggy_hair_wet.png"
+        "images/Rogue_doggy/Rogue_doggy_hair_wet_hair.png"
     else:
         "images/Rogue_doggy/Rogue_doggy_hair_[RogueX.Clothes[hair].string].png"
 
