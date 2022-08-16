@@ -15,6 +15,8 @@ init -1 python hide:
     config.optimize_texture_bounds = True
     config.image_cache_size = 200
 
+    config.allow_underfull_grids = True
+
     config.narrator_menu = True
 
     theme.tv(
