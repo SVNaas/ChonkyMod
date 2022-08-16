@@ -152,7 +152,7 @@ layeredimage Laura_sprite standing:
 
 layeredimage Laura_hair_back:
     if LauraX.wet:
-        "images/Laura_standing/Laura_standing_hair_wet_back.png"
+        "images/Laura_standing/Laura_standing_hair_wet_hair_back.png"
     else:
         "images/Laura_standing/Laura_standing_hair_[LauraX.Clothes[hair].string]_back.png"
 
